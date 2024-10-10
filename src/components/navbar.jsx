@@ -4,6 +4,7 @@ function Navbar() {
     <div className="bg-slate-500 p-2 flex justify-between ">
       <div className="flex items-center px-8 gap-5">
         <div>
+            
           <p className="text-white text-2xl">LOGO</p>
         </div>
         <small className="text-white">
